@@ -1,6 +1,11 @@
 # MirM-PacketEditor
-LUA Scripter + Packet Editor + Anticheat bypass for Mir M  
+LUA Scripter + 'Internal' Packet Editor for Mir-M  
 
-Game has tons of network exploits.  
+Includes:  
+Outbound & Inbound packet logging  
+Packet Sending  
+LUA Scripting  
+Optional licensing  
+
 
 ![Alt text](pwr_score.PNG?raw=true "Sample")   

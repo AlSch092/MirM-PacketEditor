@@ -1,0 +1,8 @@
+LIBRARY xaudio2_9_redist
+EXPORTS
+	X3DAudioInitialize	@6
+	X3DAudioCalculate	@5
+	CreateFX			@4
+	CreateAudioVolumeMeter	@3
+	CreateAudioReverb	@2
+	XAudio2Create	@1
